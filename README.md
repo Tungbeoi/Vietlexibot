@@ -8,11 +8,13 @@
 
 ## About <a name = "about"></a>
 
-**Vietlexicon** is a Vietnamese-centric document intelligence system that extracts, structures, and understands information specialized for PDFs. Main goal is to support government's workers handle forms, and legal documents.  
+**Vietlexibot** is a Vietnamese-centric document intelligence system that extracts, structures, and understands information specialized for PDFs. Main goal is to support government's workers handle forms, and legal documents.  
 
-Built with support for OCR (Optical Character Recognition), NLP (Natural Language Processing), and Vietnamese linguistic nuances, the system leverages LLMs and embedding models to assist in intelligent search, classification, and content parsing.
+Built with support for OCR (Optical Character Recognition), NLP (Natural Language Processing), and Vietnamese linguistic nuances, the system leverages LLMs and embedding models to assist in intelligent search, classification, and content parsing. 
 
 It supports hybrid pipelines combining traditional text extraction, and vector search with reranking. Vietlexicon is ideal for building smart assistants, search tools, or analysis engines over Vietnamese document repositories.
+
+Utilized Llama models for information retrival and Q&A
 
 
 ## Getting Started <a name = "getting-started"></a>
