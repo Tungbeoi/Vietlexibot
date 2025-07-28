@@ -15,7 +15,7 @@ Built with support for OCR (Optical Character Recognition), NLP (Natural Languag
 It supports hybrid pipelines combining traditional text extraction, and vector search with reranking. Vietlexicon is ideal for building smart assistants, search tools, or analysis engines over Vietnamese document repositories.
 
 
-## Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting-started"></a>
 
 This was built inside WSL on windows machine, make sure to install WSL before continue on windows. Mac and Linux can skip this part
 ### Prerequisites
