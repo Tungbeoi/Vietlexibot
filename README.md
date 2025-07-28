@@ -62,7 +62,7 @@ python Vietlexibot.py
 ```
 
 
-## Output Example <a name = "Output Example"></a>
+## Output Example <a name = "output-example"></a>
 ```
 Chọn chế độ đầu vào:
 > 1
